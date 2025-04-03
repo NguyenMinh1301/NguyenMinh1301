@@ -46,3 +46,10 @@
 </div>
 
 ###
+
+<div align="center">
+  <img width="48.5%" height="200px" src="https://github-readme-stats.vercel.app/api?username=NguyenMinh1301&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="48.5%" height="205px" src="https://github-readme-streak-stats.herokuapp.com?user=NguyenMinh1301&theme=gruvbox&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
+</div>
+
+###
